@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @avroshaheen  
+- 👀 I’m interested in web development, building user-friendly applications, and exploring innovative solutions for the web.  
+- 🌱 I’m currently learning React.js to enhance my front-end development skills.  
+- 💞️ I’m looking to collaborate on web development projects, React-based applications, and tech blogs.  
+- 📫 How to reach me: [devonrun.com](https://devonrun.com) or via email at avroshaheen@gmail.com.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I run **Devonrun**, a tech news website where I share tips, hacks, and insights for OS platforms like Android, iOS, Windows, and Linux!  
