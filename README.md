@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js to build dynamic and interactive front-end applications.  
 - 💻 Skills:  
   - **Languages:** HTML, CSS, JavaScript  
-  - **Frameworks/Libraries:** React.js (learning), Bootstrap  
+  - **Frameworks/Libraries:** Bootstrap, React.js (learning),  
   - **Tools:** Git, VS Code, Chrome DevTools  
   - **Other Areas:** Tech blogging, OS troubleshooting, and website management  
 - 💞️ I’m looking to collaborate on web development projects, especially those involving React.js, and tech content creation.  
