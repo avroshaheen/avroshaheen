@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @avroshaheen  
-- 👀 I’m passionate about web development and creating efficient, user-friendly applications.  
-- 🌱 I’m currently learning React.js to build dynamic and interactive front-end applications.  
-- 💻 Skills:  
+- 👋 Hi, I’m Shahinur Rahman
+
+- 👨‍💻 Web development enthusiast focused on building clean, user-friendly, and efficient web applications.  
+
+- 🌱 Currently learning **React.js** to level up my front-end skills and build dynamic interfaces.  
+
+- 💡 Always exploring new tools, sharing what I learn, and helping others along the way.  
+
+- 💻 **Tech Stack:**  
+
   - **Languages:** HTML, CSS, JavaScript  
-  - **Frameworks/Libraries:** Bootstrap, Tailwind, React.js (learning)
-  - **Tools:** Git, Github, Npm, VS Code, Chrome/Edge/Firefox DevTools
-  - **Other Areas:** Tech blogging, OS troubleshooting, and website management  
-- 💞️ I’m looking to collaborate on web development projects and tech content creation.  
-- 📫 How to reach me: [devonrun.com](https://devonrun.com) or via email at avroshaheen@gmail.com / avrostu@gmail.com.
-- ⚡ Fun fact: I run **Devonrun.com**, a tech blog where I share tips, hacks, and solutions. If you're interested, you're welcome to join the journey!
+  - **Frameworks/Libraries:** Bootstrap, Tailwind CSS, React.js (in progress)  
+  - **Tools & Platforms:** Git, GitHub, NPM, VS Code, Browser DevTools  
+  - **Extras:** Tech blogging, Linux/Windows troubleshooting, website management 
+
+- 🤝 Open to collaboration on web projects, open source, or content creation  
+
+- 📫 Reach out: **avroshaheen@gmail.com** / **avrostu@gmail.com**  
+
+- ⚡ Fun fact: I run [**Devonrun.com**](https://devonrun.com) — a growing tech blog where I share practical tips, dev hacks, and solutions. You're welcome to be part of the journey!
