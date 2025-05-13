@@ -13,7 +13,7 @@
   - **Tools & Platforms:** Git, GitHub, NPM, VS Code, Browser DevTools  
   - **Extras:** Tech blogging, Linux/Windows troubleshooting, website management 
 
-- 🤝 Open to collaboration on web projects, open source, or content creation  
+- 🤝 Open to collaboration on web projects, open source, or content creation regarding my skills
 
 - 📫 Reach out: **avroshaheen@gmail.com** / **avrostu@gmail.com**  
 
